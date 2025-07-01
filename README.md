@@ -1,6 +1,6 @@
-# Jarvis AI Assistant
+# N.O.V.A AI Assistant
 
-**Jarvis AI Assistant** is a **Python-based desktop application** that provides an interactive, voice-activated AI assistant with a sleek **PyQt5 GUI**, inspired by the "Jarvis" interface from Iron Man.
+**N.O.V.A AI Assistant** is a **Python-based desktop application** that provides an interactive, voice-activated AI assistant with a sleek **PyQt5 GUI**.
 
 It supports voice commands, real-time web searches, automation tasks, text-to-speech, speech-to-text, and image generation. The application leverages multiple APIs and libraries, including **Groq** for conversational AI, **Cohere** for decision-making, and **Hugging Face** for image generation.
 
@@ -64,4 +64,4 @@ Before you begin, make sure you have:
 
 ```bash
 git clone <repository-url>
-cd jarvis-ai-assistant
+cd N.O.V.A-ai-assistant
